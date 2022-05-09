@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+<head>
+    <!--kodowanie znakow, mozna uzywac PL znaki-->
+    <meta charset="UTF-8">
+    <!--sposob wyswietlanie na urzadzeniach mobilnych-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sebastian's portfolio</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.png">
+    <!--czcionka, fonty-->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <!--favicon ???-->
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/fontello.css" type="text/css">
+</head>
+
+<body>
+    <div id="wrapper">
+        <header>
+            <img src="img/seb.jpg" width="1000" height="250" alt="Sebastian's portfolio - header">
+
+        </header>
+
+        <nav>
+            <a class="menu" href="index.html">About</a><a class="menu" href="Inspirations.html">Inspirations</a><a
+                class="menu" href="offer.html">Offer</a><a class="menu active" href="contact.html">Contact</a>
+
+        </nav>
+
+        <section>
+            <article>
+                <h1>Contact</h1>
+            </article>
+
+
+        </section>
+
+        <!--Contact section-->
+        <div class="Row" id="Contact">
+            <!--Contact image ?, left column-->
+
+            <!--Contact form, right column-->
+            <div class="Column_1 Column_tall">
+
+                <!--This specifies where and how to send the form data; we are leaving it blank-->
+                <form action="" method="POST">
+                    <!-- Here we are utilizing a 3rd party service to submit the contact form data, insert your formspree endpoint in the action attribute -->
+                    <label>Name:</label>
+                    <input type="text" placeholder="Please enter your name here">
+                    <label>Email:</label>
+                    <input type="text" id="Email" name="Email" placeholder="Please enter your email here">
+                    <label>Message:</label>
+                    <input type="text" id="Message" name="Message" placeholder="Please write your message here">
+                    <input type="submit" value="SUBMIT">
+                </form>
+            </div>
+        </div>
+
+
+        <footer>
+            Web Developer invites to cooroprate<i class="icon-network"></i>
+
+        </footer>
+    </div>
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="network" unicode="&#xe800;" d="M0 348l0 4q232 19 367 115 43-20 86 2 92-92 192-123 11-29 37-47-32-76-86-135-41 29-87 14t-64-59q-131 0-250 55t-193 152q-2 6-2 22z m6 70q19 127 100 226t197 141q8-84 37-154-51-53-22-117-130-80-312-96z m14-207q87-76 199-118t224-42q-138-70-271-63-109 90-152 223z m252-285q113 15 212 72 47-25 94-4t59 71q156 33 263 121-37-92-106-161t-154-105-182-35-186 41z m97 879q88 19 180 2-29-84-92-162-41 17-55 11-33 80-33 149z m129-287q16 39 2 76 84 103 113 195 61-19 108-53 17-132 4-255-61-10-82-65-69 26-145 102z m164-379q53 62 84 144 47 6 72 41 77 6 112 12 0-6-1-15t-1-12q-96-125-266-170z m129 326q12 111 4 211 111-115 131-272-39-9-90-11-6 47-45 72z" horiz-adv-x="930" />
+
+<glyph glyph-name="note" unicode="&#xe801;" d="M381 820q0-42 46-97t90-100 61-119-39-154q-20-34-26-16-2 6 0 16 10 18 6 56t-13 78-43 73-82 41l0-536q2-48-37-95t-105-71q-74-28-143-8t-89 76 20 115 116 85q86 30 158 4l0 652 80 0z" horiz-adv-x="582" />
+
+<glyph glyph-name="facebook" unicode="&#xf30c;" d="M500 644l-142 0q-14 0-25-15t-11-37l0-102 178 0 0-148-178 0 0-442-170 0 0 442-152 0 0 148 152 0 0 86q0 94 59 159t147 65l142 0 0-156z" horiz-adv-x="500" />
+</font>
+</defs>
+</svg>
